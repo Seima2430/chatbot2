@@ -28,3 +28,4 @@ A Windows Forms GUI chatbot that educates South African citizens about cybersecu
 - Suspicious link detection
 - Privacy protection
   
+PLease Note I did my part 2 in two ways 
